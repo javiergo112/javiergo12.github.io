@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+    display: flex;
+    
+}
+.Foto__me--archivo1{
+   float: left;
+}
+.Foto__me--archivo2{
+    float: left;
+    
+
+}
+.Parte2{
+
+}
+.textos__me{
+   
+    height: 650px;
+    justify-content: left;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 15pt;
+}
+.botones__me{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.Foto__me--archivo1:hover{
+    transform: scale(1.2);
+
+
+
+}
+.botones__me a:hover{
+transform: scale(1.2);
+
+}
+h2{
+    text-align: center;
+}
+Elon Reeve Musk, es quizás la figura más icónica en lo que va de este siglo. Emprendedor, físico, inventor, magnate financiero y con una personalidad arrolladora, este hombre ha logrado llegar hasta donde muchos no se han atrevido. Tal vez ya lo conozcas o quizás nunca hayas escuchado hablar de él, pero déjame decirte que es alguien que vale la pena conocer. Su historia, sus comienzos, vamos a hablar del hombre más rico del mundo. No te pierdas la biografía de Elon Musk.
